@@ -7,14 +7,14 @@
     font-weight: 600;
     line-height: 50px;
     text-align: center;
-    border: 1px solid #000;
+    /* border: 1px solid #000; */
 }
 
 header , section , footer {border-radius: 10px;}
 
-header{height: 100px; background-color: gray;}
+header{height: 100px; background-color: rgba(128, 128, 128, 0.411);}
 
 section{}
 
 
-footer{}
+footer{height: 100px; background-color: rgba(165, 42, 42, 0.459);}
